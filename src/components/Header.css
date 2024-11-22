@@ -1,0 +1,45 @@
+/* Header.css */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+  }
+  
+  header nav {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+  }
+  
+  header nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  header nav ul li {
+    margin-right: 20px;
+  }
+  
+  header nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: color 0.3s ease;
+  }
+  
+  header nav ul li a:hover {
+    color: #00bcd4; /* Color change on hover */
+  }
+  

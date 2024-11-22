@@ -1,0 +1,29 @@
+/* App.css */
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+header nav ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+header nav ul li {
+  padding: 10px;
+}
+
+header nav ul li a {
+  color: white;
+  font-size: 18px;
+}
+
+header nav ul li a:hover {
+  color: #00bcd4;
+}

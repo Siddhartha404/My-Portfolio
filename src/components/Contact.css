@@ -1,0 +1,21 @@
+/* Contact.css */
+#contact {
+    background-color: #e8f0fe;
+    padding: 80px 20px;
+  }
+  
+  #contact h2 {
+    text-align: center;
+    font-size: 36px;
+  }
+  
+  #contact p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  #contact a {
+    color: #00bcd4;
+  }
+  
