@@ -3,11 +3,53 @@ import './Contact.css';
 
 function Contact() {
   return (
-    <section id="contact">
-      <h2>Contact Me</h2>
-      <p>Email: tsiddhartha404@gmail.com </p>
-      <p>LinkedIn: <a href="www.linkedin.com/in/siddhartha-chhetri-2376b3236" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/siddhartha-chhetri-2376b3236</a></p>
-      <p>Github: <a href="https://github.com/Siddhartha404" target="_blank" rel="noopener noreferrer"> https://github.com/Siddhartha404 </a></p>
+    <section id="contact" className="contact-section">
+      <div className="contact-container">
+        <h2 className="contact-title">Contact Me</h2>
+        <div className="contact-content">
+          <div className="contact-links">
+            <div className="contact-item">
+              <div className="contact-icon">✉️</div>
+              <div className="contact-info">
+                <h3>Email</h3>
+                <a href="mailto:tsiddhartha404@gmail.com" className="contact-link">
+                  tsiddhartha404@gmail.com
+                </a>
+              </div>
+            </div>
+
+            <div className="contact-item">
+              <div className="contact-icon">💼</div>
+              <div className="contact-info">
+                <h3>LinkedIn</h3>
+                <a 
+                  href="https://www.linkedin.com/in/siddhartha-chhetri-2376b3236" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="contact-link"
+                >
+                  Siddhartha Chhetri
+                </a>
+              </div>
+            </div>
+
+            <div className="contact-item">
+              <div className="contact-icon">💻</div>
+              <div className="contact-info">
+                <h3>GitHub</h3>
+                <a 
+                  href="https://github.com/Siddhartha404" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="contact-link"
+                >
+                  Siddhartha404
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
   );
 }
