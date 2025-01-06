@@ -34,19 +34,130 @@ function Projects() {
           </div>
 
           <div className="project-card">
+            <a 
+              href="https://github.com/Siddhartha404/Lego-Website" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="project-link"
+            >
             <div className="project-content">
-              <h3 className="project-title">Project 2</h3>
+              <h3 className="project-title">Lego Collection Website</h3>
               <div className="project-tech">
-                <span className="tech-tag">Coming Soon</span>
+                <span className="tech-tag">Node.js</span>
+                <span className="tech-tag">Javascript</span>
               </div>
               <p className="project-description">
-                Description of your second project.
+              Developed a full-stack web application for browsing and managing Lego sets. 
+              The platform includes user authentication with registration and login, along with a dynamic filtering system by categories like All Sets, Technic, and Classic Town. 
+              The responsive UI features collection cards, a navigation bar, and registration forms, built using modern web development practices and component-based
               </p>
               <div className="project-footer">
-                <span className="project-status">In Development</span>
+                <span className="view-project">View Project →</span>
               </div>
             </div>
+            </a>
           </div>
+
+          <div className="project-card">
+            <a 
+              href="https://github.com/Siddhartha404/Lego-Website" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="project-link"
+            >
+            <div className="project-content">
+              <h3 className="project-title">Lego Collection Website</h3>
+              <div className="project-tech">
+                <span className="tech-tag">Node.js</span>
+                <span className="tech-tag">Javascript</span>
+              </div>
+              <p className="project-description">
+              Developed a full-stack web application for browsing and managing Lego sets. 
+              The platform includes user authentication with registration and login, along with a dynamic filtering system by categories like All Sets, Technic, and Classic Town. 
+              The responsive UI features collection cards, a navigation bar, and registration forms, built using modern web development practices and component-based
+              </p>
+              <div className="project-footer">
+                <span className="view-project">View Project →</span>
+              </div>
+            </div>
+            </a>
+          </div>
+
+          <div className="project-card">
+            <a 
+              href="https://github.com/Siddhartha404/Lego-Website" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="project-link"
+            >
+            <div className="project-content">
+              <h3 className="project-title">Lego Collection Website</h3>
+              <div className="project-tech">
+                <span className="tech-tag">Node.js</span>
+                <span className="tech-tag">Javascript</span>
+              </div>
+              <p className="project-description">
+              Developed a full-stack web application for browsing and managing Lego sets. 
+              The platform includes user authentication with registration and login, along with a dynamic filtering system by categories like All Sets, Technic, and Classic Town. 
+              The responsive UI features collection cards, a navigation bar, and registration forms, built using modern web development practices and component-based
+              </p>
+              <div className="project-footer">
+                <span className="view-project">View Project →</span>
+              </div>
+            </div>
+            </a>
+          </div>
+
+          <div className="project-card">
+            <a 
+              href="https://github.com/Siddhartha404/Lego-Website" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="project-link"
+            >
+            <div className="project-content">
+              <h3 className="project-title">Lego Collection Website</h3>
+              <div className="project-tech">
+                <span className="tech-tag">Node.js</span>
+                <span className="tech-tag">Javascript</span>
+              </div>
+              <p className="project-description">
+              Developed a full-stack web application for browsing and managing Lego sets. 
+              The platform includes user authentication with registration and login, along with a dynamic filtering system by categories like All Sets, Technic, and Classic Town. 
+              The responsive UI features collection cards, a navigation bar, and registration forms, built using modern web development practices and component-based
+              </p>
+              <div className="project-footer">
+                <span className="view-project">View Project →</span>
+              </div>
+            </div>
+            </a>
+          </div>
+
+          <div className="project-card">
+            <a 
+              href="https://github.com/Siddhartha404/Lego-Website" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="project-link"
+            >
+            <div className="project-content">
+              <h3 className="project-title">Lego Collection Website</h3>
+              <div className="project-tech">
+                <span className="tech-tag">Node.js</span>
+                <span className="tech-tag">Javascript</span>
+              </div>
+              <p className="project-description">
+              Developed a full-stack web application for browsing and managing Lego sets. 
+              The platform includes user authentication with registration and login, along with a dynamic filtering system by categories like All Sets, Technic, and Classic Town. 
+              The responsive UI features collection cards, a navigation bar, and registration forms, built using modern web development practices and component-based
+              </p>
+              <div className="project-footer">
+                <span className="view-project">View Project →</span>
+              </div>
+            </div>
+            </a>
+          </div>
+          
         </div>
       </div>
     </section>
