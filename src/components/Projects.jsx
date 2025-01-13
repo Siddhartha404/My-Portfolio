@@ -45,7 +45,7 @@ function Projects() {
               <div className="project-tech">
                 <span className="tech-tag">Node.js</span>
                 <span className="tech-tag">Javascript</span>
-                <a href='https://lego-website-lake.vercel.app/' target='_blank'><span className="tech-tag">Live Demo</span></a>
+                <a href='https://lego-website-lake.vercel.app/' target='_blank' rel="noopener noreferrer" ><span className="tech-tag">Live Demo</span></a>
               </div>
               <p className="project-description">
               Developed a full-stack web application for browsing and managing Lego sets. 
