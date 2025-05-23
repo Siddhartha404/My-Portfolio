@@ -23,7 +23,7 @@ function Contact() {
               <div className="contact-info">
                 <h3>LinkedIn</h3>
                 <a 
-                  href="https://www.linkedin.com/in/siddhartha-chhetri-2376b3236" 
+                  href="linkedin.com/in/siddhartha-thapa-chhetri-2376b3236" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="contact-link"
